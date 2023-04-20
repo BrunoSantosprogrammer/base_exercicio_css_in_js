@@ -29,6 +29,7 @@ export const HeroForm = styled.form`
 export const HeroContainer = styled.div`
   position: relative;
   color: #eee;
+  margin: 0 auto;
 `
 
 export const HeroTitle = styled.h2`
